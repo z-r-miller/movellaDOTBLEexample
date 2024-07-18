@@ -2,8 +2,11 @@
 Python script that uses Bleak to connect with some of the Movella DOT IMU sensors without the SDK.
 
 The src folder contains some example scripts that I wrote that use the Python library Bleak and Bluetooth LE protocol to communicate with the Movella DOT IMU. This is mainly for users who had trouble using the SDK like I did.
+
 Included in the root directory are a .yml file and requirements.txt file to build a Python environment that matches the exact one I coded the scripts on.
+
 It should be noted that these scripts are based off of a guide to do a similar thing on a Mac linked here: (https://medium.com/@protobioengineering/how-to-stream-data-from-a-movella-dot-wearable-sensor-with-a-mac-and-python-5822e76fb43e)
+The article is on Medium.com and was written by Proto Bioengineering if you are interested.
 
 ## Installation
 
